@@ -1,0 +1,2 @@
+build/main/main.pkg filter=lfs diff=lfs merge=lfs -text
+build/Application_Statistique/Application_Statistique.pkg filter=lfs diff=lfs merge=lfs -text
